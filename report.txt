@@ -1,0 +1,32 @@
+referance: the previous videos of the course
+
+The revenue of the most of the movies are between 0 and 2.5E+8 $ (using the proce of dollars in 2010)(revenue_adj)
+
+The revenue was at highest in recent years but that was because of reduction in the price of dollar and that was 
+observed because the revenue_adj was at highest in 1977 and 2009 without showing a clear relation between old and recent years and the revenue_adj
+
+Animated movies have the highest mean of revenue_adj but forigen ones have the lowest mean of revenue_adj.
+
+There is no clear relation between popularity and revenue_adj
+
+There is no clear relation between popularity and revenue
+
+The revenue and revenue_adj increase from January to June then decrease from June to September then increase again from September till December (Highest
+revenue and revenue_adj are in June where the lowest are in January and September)
+
+The data also shows that adventure movies are the most popular where the Documentry have the lowest poularity
+
+The Documentry have the largest vote_average however the differences in vote_average between different genres are not very considerable
+
+There is no clear relation between Runtime and the Vote Average
+
+There is no clear relation between Vote Average and Adjusted Revenue
+
+There is no clear relation between RunTime and Adjusted Revenue
+
+There is no clear relation between Adjusted Budget and Adjusted Revenue
+
+There is no clear relation between popularity and Adjusted Revenue
+
+Note: the revenue_adj or Adjusted revenue both means the revenue using the price of dollars in 2010
+
